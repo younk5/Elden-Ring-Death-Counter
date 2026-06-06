@@ -32,7 +32,7 @@ Compatível com OBS via arquivo de texto. Overlay configurável para aparecer di
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/elden-ring-counter.git
+git clone https://github.com/younk5/Elden-Ring-Death-Counter.git
 cd elden-ring-counter
 pip install opencv-python mss numpy
 python elden_ring_counter.py
